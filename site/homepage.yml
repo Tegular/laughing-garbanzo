@@ -1,0 +1,18 @@
+---
+title: Demo
+sections:
+  - title: Notebooks
+    scope: analytist
+    items:
+      - title: OULAD
+        description: Open University Learning Analytics dataset analysis
+        jupyterPath: /notebooks/shared/oulad.ipynb
+  - title: Results
+    scope: analytist
+    items:
+      - title: VLE 2017
+        description: Virtual Learning Environment 2017 results
+        path: /products/vle-2017.html
+      - title: VLE 2018
+        description: Virtual Learning Environment 2018 results
+        path: /products/vle-2018.html
