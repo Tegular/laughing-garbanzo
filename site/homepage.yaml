@@ -14,8 +14,8 @@ sections:
     scope: analytist
     items:
       - title: Shared
-        description: A shared item
-        path: /edit/shared/shared.txt
+        description: A shared item in JupyterHub
+        jupyterPath: /edit/shared/shared.txt
       - title: Lorem
         description: Sample html
         path: /site/products/lorem.html
