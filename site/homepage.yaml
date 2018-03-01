@@ -1,8 +1,8 @@
 ---
 title: Demo
 description: |
-    An sample partner site. The notebook link goes nowhere right now, but the
-    html products are live.
+    This is a sample partner site. The notebook link goes nowhere right now, but the
+    html products are live. Maybe this site description should support Markdown?
 sections:
   - title: Notebooks
     scope: analytist
