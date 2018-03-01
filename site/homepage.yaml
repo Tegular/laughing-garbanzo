@@ -13,6 +13,9 @@ sections:
   - title: Results
     scope: analytist
     items:
+      - title: Shared
+        description: A shared item
+        path: /edit/shared/shared.txt
       - title: Lorem
         description: Sample html
         path: /site/products/lorem.html
