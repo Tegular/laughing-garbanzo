@@ -1,5 +1,8 @@
 ---
 title: Demo
+description: |
+    An sample partner site. The notebook link goes nowhere right now, but the
+    html products are live.
 sections:
   - title: Notebooks
     scope: analytist
