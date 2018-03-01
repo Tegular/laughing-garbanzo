@@ -10,9 +10,9 @@ sections:
   - title: Results
     scope: analytist
     items:
-      - title: VLE 2017
-        description: Virtual Learning Environment 2017 results
-        path: /products/vle-2017.html
-      - title: VLE 2018
-        description: Virtual Learning Environment 2018 results
-        path: /products/vle-2018.html
+      - title: Lorem
+        description: Sample html
+        path: /site/products/lorem.html
+      - title: Vestibulum
+        description: More sample html
+        path: /site/products/vestibulum.html
